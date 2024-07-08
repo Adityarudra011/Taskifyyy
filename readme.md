@@ -1,7 +1,7 @@
 # Installation
 Run the following command to clone the repository
 ```
-git clone https://github.com/Adityarudra011/Taskify.git
+git clone https://github.com/Adityarudra011/Taskifyyy.git
 ```
 Go to ```frontend``` and ```backend``` directory to install packages
 ```
